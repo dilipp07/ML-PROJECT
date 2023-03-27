@@ -2,5 +2,7 @@ pandas
 numpy 
 seaborn
 Flask
-
--e .
+matplotlib
+scikit-learn
+catboost
+# -e .
