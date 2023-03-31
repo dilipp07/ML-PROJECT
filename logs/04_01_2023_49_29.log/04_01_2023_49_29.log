@@ -1,0 +1,6 @@
+[2023-04-01 01:49:31,514]  24 root - INFO - entered the data injestion method or component
+[2023-04-01 01:49:31,518]  28 root - INFO - Exported the dataset as dataframe
+[2023-04-01 01:49:31,523]  33 root - INFO - Train Test split Initiated
+[2023-04-01 01:49:31,530]  39 root - INFO - Injestion of Data is completed
+[2023-04-01 01:49:31,535]  74 root - INFO - Read train and test data completed
+[2023-04-01 01:49:31,535]  76 root - INFO - obtaining preprocessing object
