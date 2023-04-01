@@ -1,0 +1,7 @@
+[2023-04-01 23:36:56,880]  224 werkzeug - WARNING -  * Debugger is active!
+[2023-04-01 23:36:56,880]  224 werkzeug - INFO -  * Debugger PIN: 596-470-921
+[2023-04-01 23:39:31,433]  224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2023 23:39:31] "GET / HTTP/1.1" 200 -
+[2023-04-01 23:39:31,581]  224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2023 23:39:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-04-01 23:40:09,788]  224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2023 23:40:09] "GET /prediction HTTP/1.1" 200 -
+[2023-04-01 23:40:17,153]  224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2023 23:40:17] "GET /prediction HTTP/1.1" 200 -
+[2023-04-01 23:41:14,508]  224 werkzeug - INFO -  * Detected change in 'c:\\ml-project\\app.py', reloading

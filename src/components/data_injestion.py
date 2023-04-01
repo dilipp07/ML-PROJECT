@@ -58,9 +58,8 @@ if __name__=="__main__":
 
     modeltrainer=ModelTrainer()
     
-    try:
 
-        print(modeltrainer.initiate_model_trainer(train_arr,test_arr))
+
+    print(modeltrainer.initiate_model_trainer(train_arr,test_arr))
         
-    except Exception as e:
-        raise CustomException(e,sys)
+
