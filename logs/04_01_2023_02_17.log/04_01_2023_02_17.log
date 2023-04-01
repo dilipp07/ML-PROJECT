@@ -1,0 +1,13 @@
+[2023-04-01 15:02:20,001]  24 root - INFO - entered the data injestion method or component
+[2023-04-01 15:02:20,016]  28 root - INFO - Exported the dataset as dataframe
+[2023-04-01 15:02:20,032]  33 root - INFO - Train Test split Initiated
+[2023-04-01 15:02:20,032]  39 root - INFO - Injestion of Data is completed
+[2023-04-01 15:02:20,048]  74 root - INFO - Read train and test data completed
+[2023-04-01 15:02:20,048]  76 root - INFO - obtaining preprocessing object
+[2023-04-01 15:02:20,048]  41 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2023-04-01 15:02:20,048]  42 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[2023-04-01 15:02:20,048]  47 root - INFO - Numerical pipeline is done
+[2023-04-01 15:02:20,048]  49 root - INFO - Categorical pipeline is done
+[2023-04-01 15:02:20,048]  56 root - INFO - column transformation is done
+[2023-04-01 15:02:20,048]  86 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[2023-04-01 15:02:20,079]  97 root - INFO - Saved preprocessing object.
